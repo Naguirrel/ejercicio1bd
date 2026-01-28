@@ -1,15 +1,15 @@
-20210016|Romero Castillo, Camila|Ingeniería en Sistemas|65.8
-20210017|Sánchez Sánchez, Andrés|Medicina|94.0
-20210018|Hernández Martínez, Ana|Comunicación|88.3
-20210019|Torres García, Laura|Medicina|75.5
-20210020|Gómez López, Andrés|Arquitectura|69.5
-20210021|Martínez González, Manuel|Ingeniería Industrial|61.2
-20210022|Jiménez Torres, Laura|Ingeniería Industrial|84.7
-20210023|Jiménez García, Jorge|Derecho|82.0
-20210024|Sánchez Torres, Camila|Psicología|95.7
-20210025|Romero Martínez, Ricardo|Ingeniería Civil|87.3
-20210026|Jiménez Torres, Isabella|Arquitectura|85.3
-20210027|Sánchez Díaz, María|Psicología|79.7
-20210028|Ortiz Martínez, Daniela|Administración|64.8
-20210029|Ramírez Ortiz, Miguel|Medicina|89.0
-20210030|Flores Díaz, Ricardo|Administración|71.6
+20210016|Díaz Flores, Jorge|Ingeniería Civil|67.3
+20210017|Pérez García, Carlos|Administración|82.0
+20210018|Jiménez López, Pedro|Arquitectura|77.3
+20210019|Hernández Pérez, Miguel|Psicología|84.0
+20210020|García Martínez, Diego|Ingeniería en Sistemas|67.7
+20210021|Martínez Díaz, Laura|Ingeniería Industrial|97.5
+20210022|Gómez Vargas, Daniela|Psicología|73.2
+20210023|Torres Torres, Diego|Ingeniería en Sistemas|62.4
+20210024|Gómez Ramírez, Isabella|Derecho|61.6
+20210025|Díaz González, María|Psicología|62.2
+20210026|Jiménez Ramírez, Gabriela|Derecho|66.1
+20210027|Pérez Gómez, Miguel|Ingeniería Industrial|72.8
+20210028|Ortiz Díaz, Lucía|Administración|76.2
+20210029|Vargas García, Fernando|Derecho|88.8
+20210030|Hernández Rodríguez, Ricardo|Arquitectura|60.5

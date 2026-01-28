@@ -1,15 +1,15 @@
-20210001|García Ramírez, José|Arquitectura|68.9
-20210002|Jiménez Martínez, José|Comunicación|76.9
-20210003|Martínez Pérez, María|Arquitectura|80.2
-20210004|Jiménez Pérez, María|Ingeniería Industrial|76.8
-20210005|Vargas Ramírez, Gabriela|Ingeniería en Sistemas|90.4
-20210006|Díaz Flores, Pedro|Administración|66.2
-20210007|Rodríguez Martínez, Camila|Ingeniería Civil|63.9
-20210008|Romero Ramírez, Andrés|Ingeniería en Sistemas|89.2
-20210009|Rodríguez Gómez, Jorge|Medicina|82.1
-20210010|Rivera Vargas, Manuel|Arquitectura|88.2
-20210011|Sánchez Torres, Carlos|Medicina|94.2
-20210012|Gómez Ramírez, José|Economía|85.4
-20210013|González Rivera, Andrés|Psicología|68.4
-20210014|Martínez Romero, Valentina|Derecho|81.4
-20210015|González Morales, Miguel|Ingeniería Civil|70.8
+20210001|Díaz Hernández, Laura|Economía|85.7
+20210002|González Pérez, Isabella|Economía|96.1
+20210003|Pérez Morales, Diego|Ingeniería en Sistemas|89.1
+20210004|Díaz Torres, Sofía|Administración|84.7
+20210005|Castillo Flores, Jorge|Administración|66.9
+20210006|Castillo González, Daniela|Psicología|60.7
+20210007|López Díaz, Ricardo|Administración|79.6
+20210008|Flores Castillo, Pedro|Medicina|89.8
+20210009|Ortiz Morales, Manuel|Arquitectura|92.1
+20210010|López Rodríguez, Ricardo|Ingeniería Civil|99.4
+20210011|Morales González, José|Psicología|74.1
+20210012|Hernández Romero, Sofía|Psicología|60.5
+20210013|Vargas Rivera, Gabriela|Ingeniería en Sistemas|85.9
+20210014|Castillo Flores, Isabella|Psicología|97.2
+20210015|Castillo Morales, José|Economía|68.9
