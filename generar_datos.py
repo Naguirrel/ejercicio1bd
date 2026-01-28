@@ -76,7 +76,7 @@ def generar_nombre():
 def generar_estudiante(carne):
     nombre = generar_nombre()
     carrera = random.choice(CARRERAS)
-    promedio = round(random.uniform(60, 100), 1)
+    promedio = round(random.uniform(60.0, 100.0), 1)
     return f"{carne}|{nombre}|{carrera}|{promedio}"
 
 
@@ -109,7 +109,38 @@ def generar_archivos(num_archivos, registros_por_archivo):
     print(f"Carnés: {carne_base} - {carne_base + registro_actual - 1}")
 
 
+def buscar_secuencial(carne_buscado):
+    """
+    Busca un estudiante por carné de manera secuencial.
+    Retorna: (encontrado, archivos_abiertos, lineas_leidas, tiempo_ms)
+    """
+    import time
+    inicio = time.perf_counter()
+    
+    archivos_abiertos = 0
+    lineas_leidas = 0
+    
+    archivos = [f for f in os.listdir("datos") if f.startswith("estudiantes_") and f.endswith(".txt")]
+    archivos.sort()
+    
+    for archivo in archivos:
+        archivos_abiertos += 1
+        with open(f"datos/{archivo}", "r", encoding="utf-8") as f:
+            for linea in f:
+                lineas_leidas += 1
+                campos = linea.strip().split("|")
+                if campos[0] == carne_buscado:
+                    fin = time.perf_counter()
+                    tiempo_ms = (fin - inicio) * 1000
+                    return True, archivos_abiertos, lineas_leidas, tiempo_ms, linea.strip()
+    
+    fin = time.perf_counter()
+    tiempo_ms = (fin - inicio) * 1000
+    return False, archivos_abiertos, lineas_leidas, tiempo_ms, None
+
+
 # ============================================
 # MODIFICA ESTOS VALORES PARA TUS PRUEBAS
 # ============================================
-generar_archivos(num_archivos=4, registros_por_archivo=15)
+if __name__ == "__main__":
+    generar_archivos(num_archivos=4, registros_por_archivo=15)
